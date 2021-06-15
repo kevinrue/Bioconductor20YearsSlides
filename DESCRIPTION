@@ -1,0 +1,22 @@
+Package: iSEEWorkshopEuroBioc2020Slides
+Title: Slides for iSEE Workshop at EuroBioc2020
+Version: 0.0.0.9000
+Authors@R: c(person("Kevin", "Rue-Albrecht", role = "aut", email = "kevinrue67@gmail.com", comment = c(ORCID = "0000-0003-3899-3872")),
+    person("Federico", "Marini", role="aut", email="marinif@uni-mainz.de", comment = c(ORCID = '0000-0003-3252-7758')),
+    person("Charlotte", "Soneson", role=c("aut", "cre"), email="charlottesoneson@gmail.com", comment = c(ORCID = '0000-0003-3833-2169')),
+    person("Aaron", "Lun", role="aut", email="infinite.monkeys.with.keyboards@gmail.com", comment = c(ORCID = '0000-0002-3564-4813')))
+Description: Slides for iSEE Workshop 2020
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Imports:
+    iSEE
+Suggests:
+    BiocStyle,
+    htmltools,
+    knitr,
+    RefManageR,
+    viridis,
+    xaringan
