@@ -1,5 +1,9 @@
 # Contributing to the slides
 
+## Code of conduct
+
+This repository and contributions adhere to the [Bioconductor Code of Conduct](https://www.bioconductor.org/about/code-of-conduct/).
+
 ## Structure
 
 The slides are implemented using [xaringan](https://cran.r-project.org/package=xaringan).
