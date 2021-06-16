@@ -22,8 +22,25 @@ layout: true
 
 ---
 
+# Title
+
+content
+
+---
+
 # Contributors
 
 .pull-left[
 - Kevin Rue-Albrecht
 ]
+
+.pull-right[
+
+]
+
+---
+
+# Last slide
+
+Looks like `xaringan` skips the last slide when looping.
+Keep this slide here, so that the previous slide appears as the _de facto_ last slide in the loop.
