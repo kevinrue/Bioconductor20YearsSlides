@@ -18,13 +18,7 @@ output:
       slideNumberFormat: ""
 ---
 
-layout: true
-
----
-
 background-image: url(img/stickers-events.png)
-<!-- background-color: #0092ac -->
-background-color: white
 
 ---
 
@@ -37,6 +31,12 @@ background-color: white
 .pull-right[
 
 ]
+
+---
+
+background-color: #000000
+background-image: url(img/thats-all-aaron.png)
+background-size: contain
 
 ---
 
