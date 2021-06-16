@@ -22,9 +22,9 @@ layout: true
 
 ---
 
-# Title
-
-content
+background-image: url(img/stickers-events.png)
+<!-- background-color: #0092ac -->
+background-color: white
 
 ---
 
