@@ -161,14 +161,6 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 
 ---
 
-<img src="img/">
-
-<div align="center">
-
-</div>
-
----
-
 <img src="img/DSC02207.JPG">
 
 <div align="center">
@@ -256,37 +248,286 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 
 ---
 
-<img src="img/">
+<img src="img/Brixen-2009-Robert-1.jpg">
 
 <div align="center">
-
+2009-06-17 Robert Gentleman at CSAMA 2009.
 </div>
 
 ---
 
-<img src="img/">
+<img src="img/Brixen-2009-Robert-2.jpg">
 
 <div align="center">
-
+2009-06-17 Robert Gentleman after CSAMA 2009.
 </div>
 
 ---
 
-<img src="img/">
+<img src="img/Brixen-2009-Martin-1.jpg">
 
 <div align="center">
-
+2009-06-17 Martin Morgan at CSAMA 2009.
 </div>
 
 ---
 
-<img src="img/">
+<img src="img/Brixen-2009-Martin-2.jpg">
 
 <div align="center">
-
+2009-06-17 Martin Morgan at CSAMA 2009.
 </div>
 
 ---
+
+<img src="img/Brixen-2009-Simon.jpg">
+
+<div align="center">
+2009-06-17 Simon Anders at CSAMA 2009. In the background: Martin Morgan, Robert Gentleman, Stefano Iacus.
+</div>
+
+---
+
+<img src="img/Robert-2009-Seattle.jpg">
+
+<div align="center">
+2009-08-01 Robert Gentleman in Seattle, after the Bioconductor conference. 
+</div>
+
+---
+
+<img src="img/2010-Assiniboine.jpg">
+
+<div align="center">
+2010-07-24 Margaret Taub, Kasper-Daniel Hansen, Zhenya Fridlyand, Wolfgang Huber at Mount Assiniboine Provincial Park, BC.
+</div>
+
+---
+
+<img src="img/IMG_1249.jpg">
+
+<div align="center">
+2010-09-24 Simon Anders.
+</div>
+
+---
+
+<img src="img/IMG_1254.jpg">
+
+<div align="center">
+2010-09-24 Bernd Fischer, Nicolas del Homme, Julien Gagneur, Simon Anders in Portugal.
+</div>
+
+---
+
+<img src="img/IMG_0315.JPG">
+
+<div align="center">
+2011-06-13 Wolfgang Huber, Julio Saez-Rodriguez, John Marioni in Cambridge, UK.
+</div>
+
+---
+
+<img src="img/Bioconductor-RNASeqChIPSeq-2011_9422.jpg">
+
+<div align="center">
+2011-06-22 EMBO course Advanced RNA-Seq and ChIP-Seq Data Analysis, at EMBL Heidelberg. Inter alia, Alejandro Reyes, Simon Anders, Martin Morgan, Wolfgang Huber.
+</div>
+
+---
+
+<img src="img/IMG_0325.JPG">
+
+<div align="center">
+2011-07-01 Vincent Carey at CSAMA 2011.
+</div>
+
+---
+
+<img src="img/CSAMA2011-JoRainer.jpeg">
+
+<div align="center">
+2011-07-01 Faculty dinner at CSAMA 2011.
+</div>
+
+---
+
+<img src="img/r-advanced-course-2011.jpg">
+
+<div align="center">
+2011-11-29 EMBL Advanced Course R Programming and Development, at EMBL Heidelberg, with Laurent Gatto, Robert Stojnic, Wolfgang Huber. 
+</div>
+
+---
+
+<img src="img/IMG_0494.JPG">
+
+<div align="center">
+2011-12-08 Vincent Carey, Crispin Miller, Mark Robinson, Jan Oosting at the European Bioconductor Conference in Manchester, UK.
+</div>
+
+---
+
+<img src="img/IMG_0687.JPG">
+
+<div align="center">
+2012-05-19 Simon Anders, in Krakow, Poland.
+</div>
+
+---
+
+<img src="img/IMG_0999.JPG">
+
+<div align="center">
+2013-06-26 Wolfgang Huber at CSAMA 2013 summer school in Brixen/Bressanone, Italy.
+</div>
+
+---
+
+<img src="img/IMG_1003.JPG">
+
+<div align="center">
+2013-06-26 Laurent Gatto at CSAMA 2013 summer school in Brixen/Bressanone, Italy.
+</div>
+
+---
+
+<img src="img/IMG_1062.JPG">
+
+<div align="center">
+2013-08-11 Keith Baggerly and Wolfgang Huber in Banff, Canada.
+</div>
+
+---
+
+<img src="img/IMG_1085.JPG">
+
+<div align="center">
+2013-11-17 Inter alia, Martin Morgan, Simon Anders, Gabriela Rustici at Bioconductor course in Shenzen, China.
+</div>
+
+---
+
+<img src="img/IMG_1108.JPG">
+
+<div align="center">
+2013-11-20 Inter alia, Martin Morgan, Simon Anders at Bioconductor course in Shenzen, China.
+</div>
+
+---
+
+<img src="img/IMG_1887.JPG">
+
+<div align="center">
+2015-06-14 Alejandro Reyes, Paul Pyl, Vincent Carey during the summer school CSAMA 2015 in Brixen/Bressanone, Italy.
+</div>
+
+---
+
+<img src="img/IMG_1891.JPG">
+
+<div align="center">
+2015-06-19 Summer school CSAMA 2015 in Brixen/Bressanone, Italy.
+</div>
+
+---
+
+<img src="img/2017-06-11 20.39.42.jpg">
+
+<div align="center">
+2017-06-11 Summer school CSAMA 2017 in Brixen/Bressanone, Italy. Inter alia: Charlotte Soneson, Stefano Iacus, Mike Smith, Wolfgang Huber, Laurent Gatto, Vincent Carey, Martin Morgan.
+</div>
+
+---
+
+<img src="img/2017-06-13 20.53.55.jpg">
+
+<div align="center">
+2017-06-13 Summer school CSAMA 2017 in Brixen/Bressanone, Italy. Inter alia: Vincent Carey, Laurent Gatto, Johannes Rainer, Lori Kern, Mike Smith, Jenny Bryan, Wolfgang Huber.
+</div>
+
+---
+
+<img src="img/2017-06-14 16.26.44.jpg">
+
+<div align="center">
+2017-06-14 Laurent Gatto, Johannes Rainer, Frederik Ziebell.
+</div>
+
+
+---
+
+<img src="img/2017-06-14 18.24.01.jpg">
+
+<div align="center">
+2017-06-14 Summer school CSAMA 2017 in Brixen/Bressanone, Italy. Martin Morgan, Jenny Bryan, Laurent Gatto, Johannes Rainer, Wolfgang Huber.
+</div>
+
+---
+
+<img src="img/2017-06-15 10.04.01.jpg">
+
+<div align="center">
+2017-06-15 Summer school CSAMA 2017 in Brixen/Bressanone, Italy. Inter alia Martin Morgan, Johannes Rainer, Laurent Gatto, Vincent Carey.
+</div>
+
+---
+
+<img src="img/2017-06-15 20.48.51.jpg">
+
+<div align="center">
+2017-06-15 Summer school CSAMA 2017 in Brixen/Bressanone, Italy. Inter alia Jenny Bryan, Johannes Rainer, Simone Bell, Lori Kern, Charlotte Soneson.
+</div>
+
+---
+
+<img src="img/2017-06-16 21.20.00.jpg">
+<div align="center">
+2017-06-16 Summer school CSAMA 2017 in Brixen/Bressanone, Italy. Charlotte Soneson, Mike Smith, Jenny Bryan, Simone Bell, Vincent Carey, Wolfgang Huber, Josephine Burke, Lori Kern.
+</div>
+
+---
+
+<img src="img/2017-07-28 20.16.00.jpg">
+
+<div align="center">
+2017-07-28 Susan Holmes and Wolfgang Huber in Boston, discussing TO DOs for their book.
+</div>
+
+---
+
+<img src="img/2018-05-13 13.36.18.jpg">
+
+<div align="center">
+2018-05-13 Susan Holmes having asparagus in Heidelberg.
+</div>
+
+---
+
+<img src="img/2018-07-11 20.28.12.jpg">
+
+<div align="center">
+2018-07-11 Vincent Carey, Wolfgang Huber, Robert Gentleman during Summer school CSAMA 2018 in Brixen/Bressanone, Italy. 
+</div>
+
+---
+
+<img src="img/03bbf598-e6d6-4639-93a2-4882df214824.jpg">
+
+<div align="center">
+2018-07-12 Levi Waldron, Martin Morgan, Lori Kern, Simone Bell, Stefano Iacus, Wolfgang Huber, Vlad Kim, Charlotte Soneson, Mike Smith, Laurent Gatto, Laleh Haghverdi.
+</div>
+
+---
+
+<img src="img/20191209_194851.jpg">
+
+<div align="center">
+2019-12-09 European Bioconductor Conference in Bruxelles, Belgium. Inter alia: Simone Bell, Levi Waldron, Martin Morgan, Andrea Rau, Michael Stadler, Andreas Buness
+</div>
+
+---
+
 
 # Last slide
 
