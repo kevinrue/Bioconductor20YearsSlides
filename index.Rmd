@@ -22,18 +22,6 @@ background-image: url(img/stickers-events.png)
 
 ---
 
-# Contributors
-
-.pull-left[
-- Kevin Rue-Albrecht
-]
-
-.pull-right[
-
-]
-
----
-
 <img src="img/DSC00109.JPG">
 
 <div align="center">
@@ -519,6 +507,20 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 <div align="center">
 2019-12-09 European Bioconductor Conference in Bruxelles, Belgium. Inter alia: Simone Bell, Levi Waldron, Martin Morgan, Andrea Rau, Michael Stadler, Andreas Buness
 </div>
+
+---
+
+# Contributors
+
+.pull-left[
+- Kevin Rue-Albrecht
+
+- Wolfgang Huber
+]
+
+.pull-right[
+
+]
 
 ---
 
