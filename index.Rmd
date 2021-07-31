@@ -22,6 +22,14 @@ background-image: url(img/stickers-events.png)
 
 ---
 
+<img src="img/Bioc-website-March2002.png">
+
+<div align="center">
+The Bioconductor website in March 2002 (https://web.archive.org/web/20020327093500/http://www.bioconductor.org/)
+</div>
+
+---
+
 <img src="img/DSC00109.JPG">
 
 <div align="center">
