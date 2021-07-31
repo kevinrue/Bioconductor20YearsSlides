@@ -38,10 +38,10 @@ background-image: url(img/stickers-events.png)
 
 ---
 
-<img src="img/DSC00117.jpg">
+<p style="text-align:center;"><img src="img/DSC00117.jpg" height="500px"></p>
 
 <div align="center">
-2003-08-02 Denise Scholtens (PhD student of Robert Gentleman at the time, now Chief of the Division of Biostatistics of Northwestern University). The other two are also members of Robert"s group at Harvard at the time, but we will need to ask Robert to recall their name.
+2003-08-02 Denise Scholtens (PhD student of Robert Gentleman at the time, now Chief of the Division of Biostatistics of Northwestern University). The other two are also members of Robert's group at Harvard at the time, but we will need to ask Robert to recall their name.
 Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conference. 
 </div>
 
@@ -87,10 +87,10 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 
 ---
 
-<img src="img/dsc01903.jpg">
+<p style="text-align:center;"><img src="img/dsc01903.jpg" height="510px"></p>
 
 <div align="center">
-2005-06-23 The third Brixen/Bressano (Italy) summer school Computational Statistics and Analysis of Microarrays (CSAMA). In the front, Wolfgang Huber, Robert Gentleman, Rafael Irizarry, Stefano Iacus.
+2005-06-23 The third Brixen/Bressanone (Italy) summer school Computational Statistics and Analysis of Microarrays (CSAMA). In the front, Wolfgang Huber, Robert Gentleman, Rafael Irizarry, Stefano Iacus.
 </div>
  
 ---
@@ -98,7 +98,7 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 <img src="img/dsc01899.jpg">
 
 <div align="center">
-2005-06-23 Students at the third Brixen/Bressano (Italy) summer school Computational Statistics and Analysis of Microarrays (CSAMA).
+2005-06-23 Students at the third Brixen/Bressanone (Italy) summer school Computational Statistics and Analysis of Microarrays (CSAMA).
 </div>
 
 ---
@@ -106,7 +106,7 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 <img src="img/dsc01925.jpg">
 
 <div align="center">
-2005-06-27 Robert Gentleman during the third Brixen/Bressano (Italy) summer school Computational Statistics and Analysis of Microarrays (CSAMA).
+2005-06-27 Robert Gentleman during the third Brixen/Bressanone (Italy) summer school Computational Statistics and Analysis of Microarrays (CSAMA).
 </div>
 
 ---
@@ -122,7 +122,7 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 <img src="img/dsc02065.jpg">
 
 <div align="center">
-2006-02-08 Matt Ritchie and Ligia Bras (author of cellHTS) at a party at Wolfgang Huber"s place in Cambridge.
+2006-02-08 Matt Ritchie and Ligia Bras (author of cellHTS) at a party at Wolfgang Huber's place in Cambridge.
 </div>
 
 ---
@@ -199,33 +199,29 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 ---
 
 <img src="img/Yokohama-2008-1.jpg">
-2008-12-08 Jan Oosting, Gordon Smythe and Richard Bourgon in Yokohama, Japan.
 <div align="center">
-
+2008-12-08 Jan Oosting, Gordon Smyth and Richard Bourgon in Yokohama, Japan.
 </div>
 
 ---
 
 <img src="img/Yokohama-2008-1.jpg">
-2008-12-08 Jan Oosting, Gordon Smythe and Richard Bourgon in Yokohama, Japan.
 <div align="center">
-
+2008-12-08 Jan Oosting, Gordon Smyth and Richard Bourgon in Yokohama, Japan.
 </div>
 
 ---
 
 <img src="img/Yokohama-2008-2.jpg">
-2008-12-08 Jan Oosting, Gordon Smythe and Richard Bourgon in Yokohama, Japan.
 <div align="center">
-
+2008-12-08 Jan Oosting, Gordon Smyth and Richard Bourgon in Yokohama, Japan.
 </div>
 
 ---
 
 <img src="img/Yokohama-2008-3.jpg">
-2008-12-08 Gordon Smythe in Yokohama, Japan.
 <div align="center">
-
+2008-12-08 Gordon Smyth in Yokohama, Japan.
 </div>
 
 ---
@@ -281,7 +277,7 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 <img src="img/2010-Assiniboine.jpg">
 
 <div align="center">
-2010-07-24 Margaret Taub, Kasper-Daniel Hansen, Zhenya Fridlyand, Wolfgang Huber at Mount Assiniboine Provincial Park, BC.
+2010-07-24 Margaret Taub, Kasper Daniel Hansen, Zhenya Fridlyand, Wolfgang Huber at Mount Assiniboine Provincial Park, BC.
 </div>
 
 ---
@@ -297,7 +293,7 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 <img src="img/IMG_1254.jpg">
 
 <div align="center">
-2010-09-24 Bernd Fischer, Nicolas del Homme, Julien Gagneur, Simon Anders in Portugal.
+2010-09-24 Bernd Fischer, Nicolas Delhomme, Julien Gagneur, Simon Anders in Portugal.
 </div>
 
 ---
@@ -406,15 +402,14 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 
 ---
 
-<img src="img/IMG_1891.JPG">
-
+<p style="text-align:center;"><img src="img/IMG_1891.JPG" height="550px"></p>
 <div align="center">
 2015-06-19 Summer school CSAMA 2015 in Brixen/Bressanone, Italy.
 </div>
 
 ---
 
-<img src="img/2017-06-11 20.39.42.jpg">
+<p style="text-align:center;"><img src="img/2017-06-11 20.39.42.jpg" height="510px"></p>
 
 <div align="center">
 2017-06-11 Summer school CSAMA 2017 in Brixen/Bressanone, Italy. Inter alia: Charlotte Soneson, Stefano Iacus, Mike Smith, Wolfgang Huber, Laurent Gatto, Vincent Carey, Martin Morgan.
@@ -422,7 +417,7 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 
 ---
 
-<img src="img/2017-06-13 20.53.55.jpg">
+<p style="text-align:center;"><img src="img/2017-06-13 20.53.55.jpg" height="510px"></p>
 
 <div align="center">
 2017-06-13 Summer school CSAMA 2017 in Brixen/Bressanone, Italy. Inter alia: Vincent Carey, Laurent Gatto, Johannes Rainer, Lori Kern, Mike Smith, Jenny Bryan, Wolfgang Huber.
@@ -471,7 +466,7 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 
 ---
 
-<img src="img/2017-06-16 21.20.00.jpg">
+<p style="text-align:center;"><img src="img/2017-06-16 21.20.00.jpg" height="510px"></p>
 <div align="center">
 2017-06-16 Summer school CSAMA 2017 in Brixen/Bressanone, Italy. Charlotte Soneson, Mike Smith, Jenny Bryan, Simone Bell, Vincent Carey, Wolfgang Huber, Josephine Burke, Lori Kern.
 </div>
