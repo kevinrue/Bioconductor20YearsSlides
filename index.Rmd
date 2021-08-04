@@ -190,7 +190,7 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 
 ---
 
-<img src="img/dsc_0312_10602.jpg">
+<p style="text-align:center;"><img src="img/dsc_0312_10602.jpg" height="510px"></p>
 
 <div align="center">
 2007-06-20 Wolfgang Huber on Rossalm, during the social event (hike) at CSAMA 2007 in Brixen/Bressanone, Italy.
@@ -322,7 +322,7 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 
 ---
 
-<img src="img/IMG_0325.JPG">
+<p style="text-align:center;"><img src="img/IMG_0325.JPG" height="510px"></p>
 
 <div align="center">
 2011-07-01 Vincent Carey at CSAMA 2011.
@@ -330,7 +330,7 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 
 ---
 
-<img src="img/CSAMA2011-JoRainer.jpeg">
+<p style="text-align:center;"><img src="img/CSAMA2011-JoRainer.jpeg" height="510px"></p>
 
 <div align="center">
 2011-07-01 Faculty dinner at CSAMA 2011.
@@ -354,7 +354,7 @@ Location: Buca di Beppo in Palo Alto, CA, during the Graphs in Biology conferenc
 
 ---
 
-<img src="img/IMG_0687.JPG">
+<p style="text-align:center;"><img src="img/IMG_0687.JPG" height="510px"></p>
 
 <div align="center">
 2012-05-19 Simon Anders, in Krakow, Poland.
