@@ -20,24 +20,20 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
-      - name: Install renv
+      
+      - name: Query dependencies and update old packages
         run: |
-          options(repos = c(CRAN = "https://cran.r-project.org"))
-          install.packages(c('renv', 'remotes', 'BiocManager'))
+          BiocManager::install(ask=FALSE)
+          saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
         shell: Rscript {0}
-        
-      - name: Cache renv
+
+      - name: Cache R packages
+        if: runner.os != 'Windows'
         uses: actions/cache@v1
         with:
-          path: ~/.local/share/renv
-          key: ${{ runner.os }}-renv-1-${{ hashFiles('renv.lock') }}
-          restore-keys: ${{ runner.os }}-renv-1-
-
-      - name: Restore renv
-        run: |
-          renv::restore()
-        shell: Rscript {0}
+          path: /usr/local/lib/R/site-library
+          key: ${{ env.cache-version }}-${{ runner.os }}-r-${{ hashFiles('.github/depends.Rds') }}
+          restore-keys: ${{ env.cache-version }}-${{ runner.os }}-r-
         
       # This lets us augment with additional dependencies
       - name: Install system dependencies
@@ -48,6 +44,14 @@ jobs:
           Rscript -e "remotes::install_github('r-hub/sysreqs')"
           sysreqs=$(Rscript -e "cat(sysreqs::sysreq_commands('DESCRIPTION'))")
           sudo -s eval "$sysreqs"
+
+      - name: Install dependencies
+        run: |
+          options(repos = c(CRAN = "https://cran.r-project.org"))
+          BiocManager::repositories()
+          remotes::install_deps(dependencies = TRUE, repos = BiocManager::repositories())
+          remotes::install_cran("rcmdcheck")
+        shell: Rscript {0}
 
       - name: Session info
         run: |

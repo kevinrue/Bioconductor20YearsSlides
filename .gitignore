@@ -6,3 +6,6 @@ index.html
 libs/
 .DS_Store
 Bioconductor20YearsSlides.Rproj
+renv/
+renv.lock
+.Rprofile
