@@ -1,5 +1,5 @@
-Package: iSEEWorkshopEuroBioc2020Slides
-Title: Slides for iSEE Workshop at EuroBioc2020
+Package: Bioconductor20YearsSlides
+Title: 20 Years of Bioconductor
 Version: 0.0.0.9000
 Authors@R: c(person("Kevin", "Rue-Albrecht", role = "aut", email = "kevinrue67@gmail.com", comment = c(ORCID = "0000-0003-3899-3872")),
     person("Wolfgang", "Huber", role="aut", comment = c(ORCID = '0000-0002-0474-2218')))
