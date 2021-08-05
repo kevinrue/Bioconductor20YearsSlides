@@ -18,7 +18,16 @@ output:
       slideNumberFormat: ""
 ---
 
-background-image: url(img/stickers-events.png)
+
+layout: true
+  
+<div class="my-header">
+Contribute at <a href="https://github.com/kevinrue/Bioconductor20YearsSlides">https://github.com/kevinrue/Bioconductor20YearsSlides</a>
+</div>
+
+---
+
+<img src="img/stickers-events.png">
 
 ---
 
