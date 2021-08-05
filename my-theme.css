@@ -24,3 +24,19 @@ Developed and maintained by Kevin Rue-Albrecht (@kevinrue)
     font-size: 55px;
     color: #87b13f;
 }
+
+div.my-header {
+    background-color: #87b13f;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 30px;
+    width: 100%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+a, a > code {
+    color: #00758a;
+    text-decoration: none;
+}
