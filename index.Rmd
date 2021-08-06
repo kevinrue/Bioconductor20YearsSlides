@@ -857,6 +857,16 @@ BioC2019 - New York City, USA
 ---
 
 .center[
+<img src="img/20190625_191218.jpg" height="500px">
+]
+
+<div align="center">
+BioC2019 - New York City, USA. Inter alia: Marcel Ramos, Robert Castelo, Nitesh Turaga, Hervé Pages, Vince, Carey, Matt Ritchie, Matthew McCall and Kevin Rue.
+</div>
+
+---
+
+.center[
 <img src="img/EuroBioC2019-01.jpg" height="500px">
 ]
 
